@@ -1,0 +1,857 @@
+[
+    {
+      "qid": 1,
+      "question": "What is the speed of light in a vacuum?",
+      "subject": "Physics",
+      "topic": "Optics",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 2,
+      "question": "Explain the concept of supervised learning.",
+      "subject": "Machine Learning",
+      "topic": "Supervised Learning",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 3,
+      "question": "What is the purpose of an index in a database?",
+      "subject": "Backend",
+      "topic": "Database Management",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 4,
+      "question": "Define the laws of motion.",
+      "subject": "Physics",
+      "topic": "Classical Mechanics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 5,
+      "question": "What are the key components of a neural network?",
+      "subject": "Machine Learning",
+      "topic": "Neural Networks",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 6,
+      "question": "Explain the difference between GET and POST requests.",
+      "subject": "Backend",
+      "topic": "Web Development",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 7,
+      "question": "Describe the concept of wave-particle duality.",
+      "subject": "Physics",
+      "topic": "Quantum Physics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 8,
+      "question": "What is reinforcement learning?",
+      "subject": "Machine Learning",
+      "topic": "Reinforcement Learning",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 9,
+      "question": "Explain the role of middleware in a software architecture.",
+      "subject": "Backend",
+      "topic": "Middleware",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 10,
+      "question": "Define binary search and its time complexity.",
+      "subject": "Computer Fundamentals",
+      "topic": "Algorithms",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+   
+    {
+      "qid": 11,
+      "question": "Explain the concept of torque in physics.",
+      "subject": "Physics",
+      "topic": "Mechanics",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 12,
+      "question": "What is overfitting in machine learning?",
+      "subject": "Machine Learning",
+      "topic": "Overfitting",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 13,
+      "question": "How does a NoSQL database differ from a relational database?",
+      "subject": "Backend",
+      "topic": "NoSQL",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 14,
+      "question": "Define electric field and magnetic field in electromagnetic theory.",
+      "subject": "Physics",
+      "topic": "Electromagnetism",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 15,
+      "question": "What is a decision tree in machine learning?",
+      "subject": "Machine Learning",
+      "topic": "Decision Trees",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 16,
+      "question": "Explain the concept of a web server.",
+      "subject": "Backend",
+      "topic": "Web Servers",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 17,
+      "question": "Describe the concept of wave function collapse in quantum mechanics.",
+      "subject": "Physics",
+      "topic": "Quantum Mechanics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 18,
+      "question": "What is transfer learning in machine learning?",
+      "subject": "Machine Learning",
+      "topic": "Transfer Learning",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 19,
+      "question": "Explain the role of a reverse proxy in a web application.",
+      "subject": "Backend",
+      "topic": "Reverse Proxy",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 20,
+      "question": "Describe the concept of Big-O notation in algorithm analysis.",
+      "subject": "Computer Fundamentals",
+      "topic": "Algorithm Analysis",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+   
+    {
+      "qid": 21,
+      "question": "What is Hooke's Law in physics?",
+      "subject": "Physics",
+      "topic": "Mechanics",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 22,
+      "question": "Explain the concept of cross-validation in machine learning.",
+      "subject": "Machine Learning",
+      "topic": "Cross-Validation",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 23,
+      "question": "How does caching improve web application performance?",
+      "subject": "Backend",
+      "topic": "Caching",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 24,
+      "question": "Define the concept of work in thermodynamics.",
+      "subject": "Physics",
+      "topic": "Thermodynamics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 25,
+      "question": "Explain the concept of k-nearest neighbors in machine learning.",
+      "subject": "Machine Learning",
+      "topic": "k-NN",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 26,
+      "question": "What is the role of a load balancer in a microservices architecture?",
+      "subject": "Backend",
+      "topic": "Microservices",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 27,
+      "question": "Describe the concept of quantum entanglement.",
+      "subject": "Physics",
+      "topic": "Quantum Physics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 28,
+      "question": "Explain the concept of ensemble learning in machine learning.",
+      "subject": "Machine Learning",
+      "topic": "Ensemble Learning",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 29,
+      "question": "What is the role of a web application firewall (WAF) in backend security?",
+      "subject": "Backend",
+      "topic": "Web Security",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 30,
+      "question": "Define the concept of pipelining in computer architecture.",
+      "subject": "Computer Fundamentals",
+      "topic": "Computer Architecture",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 31,
+      "question": "Explain the principle of conservation of energy in physics.",
+      "subject": "Physics",
+      "topic": "Energy Conservation",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 32,
+      "question": "What is the role of activation functions in neural networks?",
+      "subject": "Machine Learning",
+      "topic": "Neural Networks",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 33,
+      "question": "How does indexing impact database query performance?",
+      "subject": "Backend",
+      "topic": "Database Management",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 34,
+      "question": "Define Pascal's law in fluid mechanics.",
+      "subject": "Physics",
+      "topic": "Fluid Mechanics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 35,
+      "question": "Explain the concept of regularization in machine learning.",
+      "subject": "Machine Learning",
+      "topic": "Regularization",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 36,
+      "question": "What is the role of a reverse engineer in backend development?",
+      "subject": "Backend",
+      "topic": "Reverse Engineering",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 37,
+      "question": "Describe the concept of wave interference in physics.",
+      "subject": "Physics",
+      "topic": "Wave Physics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 38,
+      "question": "Explain the concept of dimensionality reduction in machine learning.",
+      "subject": "Machine Learning",
+      "topic": "Dimensionality Reduction",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 39,
+      "question": "What is the role of a content delivery network (CDN) in backend infrastructure?",
+      "subject": "Backend",
+      "topic": "CDN",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 40,
+      "question": "Define Moore's Law and its impact on computer technology.",
+      "subject": "Computer Fundamentals",
+      "topic": "Moore's Law",
+      "difficulty": "Hard",
+      "marks": 10
+    }
+   ,
+    {
+      "qid": 41,
+      "question": "Explain the concept of elastic collisions in physics.",
+      "subject": "Physics",
+      "topic": "Collisions",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 42,
+      "question": "What is the purpose of feature scaling in machine learning?",
+      "subject": "Machine Learning",
+      "topic": "Feature Scaling",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 43,
+      "question": "How does connection pooling enhance database performance?",
+      "subject": "Backend",
+      "topic": "Database Management",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 44,
+      "question": "Define the laws of thermodynamics.",
+      "subject": "Physics",
+      "topic": "Thermodynamics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 45,
+      "question": "Explain the concept of gradient descent in machine learning.",
+      "subject": "Machine Learning",
+      "topic": "Gradient Descent",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 46,
+      "question": "What is the role of a message queue in a distributed system?",
+      "subject": "Backend",
+      "topic": "Distributed Systems",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 47,
+      "question": "Describe the concept of quantum superposition.",
+      "subject": "Physics",
+      "topic": "Quantum Physics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 48,
+      "question": "Explain the concept of hyperparameter tuning in machine learning.",
+      "subject": "Machine Learning",
+      "topic": "Hyperparameter Tuning",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 49,
+      "question": "What is the role of an API gateway in microservices architecture?",
+      "subject": "Backend",
+      "topic": "Microservices",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 50,
+      "question": "Define the concept of cache memory in computer architecture.",
+      "subject": "Computer Fundamentals",
+      "topic": "Memory Hierarchy",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 51,
+      "question": "Explain the concept of simple harmonic motion in physics.",
+      "subject": "Physics",
+      "topic": "Mechanics",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 52,
+      "question": "What is the role of activation functions in neural networks?",
+      "subject": "Machine Learning",
+      "topic": "Neural Networks",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 53,
+      "question": "How does indexing impact database query performance?",
+      "subject": "Backend",
+      "topic": "Database Management",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 54,
+      "question": "Define Pascal's law in fluid mechanics.",
+      "subject": "Physics",
+      "topic": "Fluid Mechanics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 55,
+      "question": "Explain the concept of regularization in machine learning.",
+      "subject": "Machine Learning",
+      "topic": "Regularization",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 56,
+      "question": "What is the role of a reverse engineer in backend development?",
+      "subject": "Backend",
+      "topic": "Reverse Engineering",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 57,
+      "question": "Describe the concept of wave interference in physics.",
+      "subject": "Physics",
+      "topic": "Wave Physics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 58,
+      "question": "Explain the concept of dimensionality reduction in machine learning.",
+      "subject": "Machine Learning",
+      "topic": "Dimensionality Reduction",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 59,
+      "question": "What is the role of a content delivery network (CDN) in backend infrastructure?",
+      "subject": "Backend",
+      "topic": "CDN",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 60,
+      "question": "Define Moore's Law and its impact on computer technology.",
+      "subject": "Computer Fundamentals",
+      "topic": "Moore's Law",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 61,
+      "question": "Explain the concept of elastic collisions in physics.",
+      "subject": "Physics",
+      "topic": "Collisions",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 62,
+      "question": "What is the purpose of feature scaling in machine learning?",
+      "subject": "Machine Learning",
+      "topic": "Feature Scaling",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 63,
+      "question": "How does connection pooling enhance database performance?",
+      "subject": "Backend",
+      "topic": "Database Management",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 64,
+      "question": "Define the laws of thermodynamics.",
+      "subject": "Physics",
+      "topic": "Thermodynamics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 65,
+      "question": "Explain the concept of gradient descent in machine learning.",
+      "subject": "Machine Learning",
+      "topic": "Gradient Descent",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 66,
+      "question": "What is the role of a message queue in a distributed system?",
+      "subject": "Backend",
+      "topic": "Distributed Systems",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 67,
+      "question": "Describe the concept of quantum superposition.",
+      "subject": "Physics",
+      "topic": "Quantum Physics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 68,
+      "question": "Explain the concept of hyperparameter tuning in machine learning.",
+      "subject": "Machine Learning",
+      "topic": "Hyperparameter Tuning",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 69,
+      "question": "What is the role of an API gateway in microservices architecture?",
+      "subject": "Backend",
+      "topic": "Microservices",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 70,
+      "question": "Define the concept of cache memory in computer architecture.",
+      "subject": "Computer Fundamentals",
+      "topic": "Memory Hierarchy",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 71,
+      "question": "Explain the concept of simple harmonic motion in physics.",
+      "subject": "Physics",
+      "topic": "Mechanics",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 72,
+      "question": "What is the role of activation functions in neural networks?",
+      "subject": "Machine Learning",
+      "topic": "Neural Networks",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 73,
+      "question": "How does indexing impact database query performance?",
+      "subject": "Backend",
+      "topic": "Database Management",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 74,
+      "question": "Define Pascal's law in fluid mechanics.",
+      "subject": "Physics",
+      "topic": "Fluid Mechanics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 75,
+      "question": "Explain the concept of regularization in machine learning.",
+      "subject": "Machine Learning",
+      "topic": "Regularization",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 76,
+      "question": "What is the role of a reverse engineer in backend development?",
+      "subject": "Backend",
+      "topic": "Reverse Engineering",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 77,
+      "question": "Describe the concept of wave interference in physics.",
+      "subject": "Physics",
+      "topic": "Wave Physics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 78,
+      "question": "Explain the concept of dimensionality reduction in machine learning.",
+      "subject": "Machine Learning",
+      "topic": "Dimensionality Reduction",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 79,
+      "question": "What is the role of a content delivery network (CDN) in backend infrastructure?",
+      "subject": "Backend",
+      "topic": "CDN",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 80,
+      "question": "Define Moore's Law and its impact on computer technology.",
+      "subject": "Computer Fundamentals",
+      "topic": "Moore's Law",
+      "difficulty": "Hard",
+      "marks": 10
+    }
+    ,
+    
+    {
+      "qid": 81,
+      "question": "Explain the concept of centripetal force in physics.",
+      "subject": "Physics",
+      "topic": "Mechanics",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 82,
+      "question": "What is the purpose of a confusion matrix in machine learning?",
+      "subject": "Machine Learning",
+      "topic": "Confusion Matrix",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 83,
+      "question": "How does a primary key differ from a foreign key in a database?",
+      "subject": "Backend",
+      "topic": "Database Management",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 84,
+      "question": "Define the concept of entropy in thermodynamics.",
+      "subject": "Physics",
+      "topic": "Thermodynamics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 85,
+      "question": "Explain the bias-variance tradeoff in machine learning.",
+      "subject": "Machine Learning",
+      "topic": "Bias-Variance Tradeoff",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 86,
+      "question": "What is the role of a message broker in a microservices architecture?",
+      "subject": "Backend",
+      "topic": "Microservices",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 87,
+      "question": "Describe the concept of quantum teleportation.",
+      "subject": "Physics",
+      "topic": "Quantum Physics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 88,
+      "question": "Explain the concept of ensemble learning in machine learning.",
+      "subject": "Machine Learning",
+      "topic": "Ensemble Learning",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 89,
+      "question": "What is the role of an API gateway in backend security?",
+      "subject": "Backend",
+      "topic": "API Gateway",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 90,
+      "question": "Define the concept of cache coherence in computer architecture.",
+      "subject": "Computer Fundamentals",
+      "topic": "Computer Architecture",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 91,
+      "question": "Explain the concept of Doppler effect in physics.",
+      "subject": "Physics",
+      "topic": "Wave Physics",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 92,
+      "question": "What is the role of dropout in neural networks?",
+      "subject": "Machine Learning",
+      "topic": "Neural Networks",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 93,
+      "question": "How does normalization improve database design?",
+      "subject": "Backend",
+      "topic": "Database Management",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 94,
+      "question": "Define Archimedes' principle in fluid mechanics.",
+      "subject": "Physics",
+      "topic": "Fluid Mechanics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 95,
+      "question": "Explain the concept of transfer learning in machine learning.",
+      "subject": "Machine Learning",
+      "topic": "Transfer Learning",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 96,
+      "question": "What is the role of an ORM (Object-Relational Mapping) in backend development?",
+      "subject": "Backend",
+      "topic": "ORM",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 97,
+      "question": "Describe the concept of wave-particle duality in physics.",
+      "subject": "Physics",
+      "topic": "Quantum Mechanics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 98,
+      "question": "Explain the concept of unsupervised learning in machine learning.",
+      "subject": "Machine Learning",
+      "topic": "Unsupervised Learning",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 99,
+      "question": "What is the role of a web application firewall (WAF) in backend security?",
+      "subject": "Backend",
+      "topic": "Web Security",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 100,
+      "question": "Define Amdahl's Law and its significance in computer architecture.",
+      "subject": "Computer Fundamentals",
+      "topic": "Amdahl's Law",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "qid": 101,
+      "question": "Explain the concept of elastic collisions in physics.",
+      "subject": "Physics",
+      "topic": "Collisions",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 102,
+      "question": "What is the purpose of feature scaling in machine learning?",
+      "subject": "Machine Learning",
+      "topic": "Feature Scaling",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 103,
+      "question": "How does connection pooling enhance database performance?",
+      "subject": "Backend",
+      "topic": "Database Management",
+      "difficulty": "Easy",
+      "marks": 2
+    },
+    {
+      "qid": 104,
+      "question": "Define the laws of thermodynamics.",
+      "subject": "Physics",
+      "topic": "Thermodynamics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 105,
+      "question": "Explain the bias-variance tradeoff in machine learning.",
+      "subject": "Machine Learning",
+      "topic": "Bias-Variance Tradeoff",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "qid": 106,
+      "question": "What is the role of a message broker in a microservices architecture?",
+      "subject": "Backend",
+      "topic": "Microservices",
+      "difficulty": "Medium",
+      "marks": 5
+    }
+    
+  ]
+  
